@@ -93,4 +93,4 @@ A 180 kHz fixed-frequency step-down PWM DC/DC converter capable of driving up to
 
 ### ● License:
 
-####
+#### This project is open-source. Feel free to modify, distribute, and use it for your own applications under the GNU License.
