@@ -80,9 +80,9 @@ A 180 kHz fixed-frequency step-down PWM DC/DC converter capable of driving up to
 ├── manufacturing/          # Gerbers & BOM
 │   ├── gerbers/            # Gerber and drill files for PCB fabrication
 │   ├── bom/                # Bill of Materials (.csv )
-├── ZVS.kicad_pcb  # KiCad PCB Layout file
-├── ZVS.kicad_sch  # KiCad Schematic file
-├── ZVS.kicad_pro  # KiCad Project file
+├── Adjustable_Buck.kicad_pcb  # KiCad PCB Layout file
+├── Adjustable_Buck.kicad_sch  # KiCad Schematic file
+├── Adjustable_Buck.kicad_pro  # KiCad Project file
 └── README.md               # This file
  #Adjustable CC/CV buck converter
 ```
